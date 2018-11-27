@@ -13,3 +13,6 @@ C:\Users\hp\documents\visual studio 2015\Projects\DBSI\DBSI\bin\Debug\System.Net
 C:\Users\hp\documents\visual studio 2015\Projects\DBSI\DBSI\obj\Debug\DBSI.AddEmployee.resources
 C:\Users\hp\documents\visual studio 2015\Projects\DBSI\DBSI\obj\Debug\DBSI.Main.resources
 C:\Users\hp\documents\visual studio 2015\Projects\DBSI\DBSI\obj\Debug\DBSI.Token.resources
+C:\direc\direc-winform\DBSI\bin\Debug\DBSI.exe.config
+C:\direc\direc-winform\DBSI\obj\Debug\DBSI.exe
+C:\direc\direc-winform\DBSI\obj\Debug\DBSI.pdb
