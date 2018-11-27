@@ -1,0 +1,15 @@
+C:\Users\hp\documents\visual studio 2015\Projects\DBSI\DBSI\bin\Debug\DBSI.exe.config
+C:\Users\hp\documents\visual studio 2015\Projects\DBSI\DBSI\bin\Debug\DBSI.exe
+C:\Users\hp\documents\visual studio 2015\Projects\DBSI\DBSI\bin\Debug\DBSI.pdb
+C:\Users\hp\documents\visual studio 2015\Projects\DBSI\DBSI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\documents\visual studio 2015\Projects\DBSI\DBSI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\documents\visual studio 2015\Projects\DBSI\DBSI\obj\Debug\DBSI.csprojResolveAssemblyReference.cache
+C:\Users\hp\documents\visual studio 2015\Projects\DBSI\DBSI\obj\Debug\DBSI.Properties.Resources.resources
+C:\Users\hp\documents\visual studio 2015\Projects\DBSI\DBSI\obj\Debug\DBSI.csproj.GenerateResource.Cache
+C:\Users\hp\documents\visual studio 2015\Projects\DBSI\DBSI\obj\Debug\DBSI.exe
+C:\Users\hp\documents\visual studio 2015\Projects\DBSI\DBSI\obj\Debug\DBSI.pdb
+C:\Users\hp\documents\visual studio 2015\Projects\DBSI\DBSI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\hp\documents\visual studio 2015\Projects\DBSI\DBSI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\hp\documents\visual studio 2015\Projects\DBSI\DBSI\obj\Debug\DBSI.AddEmployee.resources
+C:\Users\hp\documents\visual studio 2015\Projects\DBSI\DBSI\obj\Debug\DBSI.Main.resources
+C:\Users\hp\documents\visual studio 2015\Projects\DBSI\DBSI\obj\Debug\DBSI.Token.resources
